@@ -1,0 +1,17 @@
+﻿<Window x:Class="Client.Showgames"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+         Title="Show games" Height="450" Width="557.216" ResizeMode="NoResize">
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top" Height="54">
+            <Button Margin="10,14,0,5" Click="LiveGames" Height="30" Width="87">Live games</Button>
+            <Button Margin="10,14,0,5" Click="EndedGames" Height="30" Width="87">Ended games</Button>
+            
+        </ToolBar>
+        <ListBox Margin="10" DockPanel.Dock="Top" Height="336" Name="LBox"></ListBox>
+    </DockPanel>
+</Window>

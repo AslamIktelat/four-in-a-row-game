@@ -1,0 +1,81 @@
+C:\Users\Aslam\Desktop\csharp\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Aslam\Desktop\csharp\Client\Client\bin\Debug\Client.exe
+C:\Users\Aslam\Desktop\csharp\Client\Client\bin\Debug\Client.pdb
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Dashboard.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\App.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client.exe
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client.pdb
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\ShowPlayers.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Showgames.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\CommonGames.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Lobby.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\GameWindow.g.cs
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\CommonGames.baml
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Dashboard.baml
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\GameWindow.baml
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Lobby.baml
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Showgames.baml
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\ShowPlayers.baml
+C:\Users\Aslam\Desktop\csharp\Client\Client\obj\Debug\Client.g.resources
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\bin\Debug\Client.exe
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\bin\Debug\Client.pdb
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\CommonGames.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Dashboard.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\GameWindow.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Lobby.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Showgames.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\ShowPlayers.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\App.g.cs
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client.exe
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client.pdb
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\CommonGames.baml
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Dashboard.baml
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\GameWindow.baml
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Lobby.baml
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Showgames.baml
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\ShowPlayers.baml
+C:\Users\Aslam\Desktop\csharp - Copy\Client\Client\obj\Debug\Client.g.resources
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\bin\Debug\Client.exe
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\bin\Debug\Client.pdb
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\CommonGames.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Dashboard.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\GameWindow.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Lobby.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Showgames.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\ShowPlayers.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\App.g.cs
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\CommonGames.baml
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Dashboard.baml
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\GameWindow.baml
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Lobby.baml
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Showgames.baml
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\ShowPlayers.baml
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client.g.resources
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client.exe
+C:\Users\Aslam\Desktop\206143166\FourRowGame\Client\Client\obj\Debug\Client.pdb
