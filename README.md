@@ -9,3 +9,6 @@ you can downlaod the game with the database
           noor            123
           ameer           ameer
           iktelat         123
+          
+screen record of the game:
+https://drive.google.com/file/d/11tyI8RNK6GX-Pz7vudGT5SUTWBUf2xh4/view
